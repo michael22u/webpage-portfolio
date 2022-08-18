@@ -336,9 +336,16 @@ body {
         text-justify: distribute;
         text-align-last: left;  
     }
-    .Home{
-        width:auto; 
+   .Home{
+        width:50px; 
+        height: 20px;
         left:10px;
+    }
+    .text-home{
+        font-size: 12px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
         
     }
     #stickytext{
