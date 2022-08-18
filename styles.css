@@ -325,7 +325,7 @@ body {
 }
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
     .paintingparent1{
         width:85%;
         left:65px;
@@ -341,7 +341,7 @@ body {
     .textbox{
         width:30%;
         right: 0px; 
-        font-size: 11px;
+        font-size: 12px;
         line-height: 120%;
         text-align: justify;
         text-justify: distribute;
@@ -353,7 +353,7 @@ body {
         left:10px;
     }
     .text-home{
-        font-size: 12px;
+        font-size: 13px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -406,7 +406,7 @@ body {
 }
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
     .fotoparent1{
         width:85%;
         left:65px;
@@ -455,7 +455,7 @@ body {
 }
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
     .fotoparent2{
         width:85%;
         left:65px;
@@ -505,7 +505,7 @@ body {
 }
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
     .fotoparent3{
         width:85%;
         left:65px;
@@ -558,28 +558,20 @@ body {
 }
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
     .digitalparent1{
         width:85%;
         left:65px;
     }
     .digitalbox1{
-        width: 60%;
+        width: 65%;
         margin-left: 10px;
     }
     .digitalbox1 img{
         width:auto;
         margin-bottom: 50px;
     }
-    .textboxdigital{
-        width:40%;
-        left: 245px; 
-        font-size: 11px;
-        line-height: 120%;
-        text-align: justify;
-        text-justify: distribute;
-        text-align-last: left;   
-    }
+ 
 }
 
 .size{
