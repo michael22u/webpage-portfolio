@@ -164,6 +164,17 @@ body {
     line-height: 1.6;
 }
 
+.textboxdigital{
+    position: absolute;
+    width: 400px;
+    height: 100%;
+    right: 50px;
+    top: 0px;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
 #stickytext{
     position: sticky;
     top: 100px;
