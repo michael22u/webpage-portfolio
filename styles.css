@@ -314,23 +314,27 @@ body {
 }
 
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
     .paintingparent1{
         width:85%;
         left:65px;
     }
     .paintingbox1{
-        width: 60%;
+        width: 65%;
+        margin-left: 10px;
     }
     .paintingbox1 img{
         width:auto;
         margin-bottom: 50px;
     }
     .textbox{
-        width:39%;
+        width:30%;
         right: 0px; 
-        font-size: 13px;
-        
+        font-size: 11px;
+        line-height: 120%;
+        text-align: justify;
+        text-justify: distribute;
+        text-align-last: left;  
     }
     .Home{
         width:auto; 
@@ -384,14 +388,15 @@ body {
 }
 
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
     .fotoparent1{
         width:85%;
         left:65px;
         margin-bottom: 150px;
     }
     .fotobox1{
-        width: 60%;
+        width: 65%;
+        margin-left: 10px;
     }
     .fotobox1 img{
         width:auto;
@@ -432,14 +437,15 @@ body {
 }
 
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
     .fotoparent2{
         width:85%;
         left:65px;
         margin-bottom: 150px;
     }
     .fotobox2{
-        width: 60%;
+        width: 65%;
+        margin-left: 10px;
     }
     .fotobox2 img{
         width:auto;
@@ -481,14 +487,15 @@ body {
 }
 
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
     .fotoparent3{
         width:85%;
         left:65px;
         margin-bottom: 150px;
     }
     .fotobox3{
-        width: 60%;
+        width: 65%;
+         margin-left: 10px;
     }
     .fotobox3 img{
         width:auto;
@@ -533,17 +540,27 @@ body {
 }
 
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
     .digitalparent1{
         width:85%;
         left:65px;
     }
     .digitalbox1{
         width: 60%;
+        margin-left: 10px;
     }
     .digitalbox1 img{
         width:auto;
         margin-bottom: 50px;
+    }
+    .textboxdigital{
+        width:40%;
+        left: 245px; 
+        font-size: 11px;
+        line-height: 120%;
+        text-align: justify;
+        text-justify: distribute;
+        text-align-last: left;   
     }
 }
 
