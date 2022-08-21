@@ -359,6 +359,7 @@ body {
         height: auto;
         display: flex;
         flex-direction: column; 
+        margin-top: 50px;
     }
     .paintingbox1{
         order: 2;
