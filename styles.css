@@ -351,8 +351,8 @@ body {
 @media only screen and (max-width: 600px) {
     .maincategory{
         justify-content: center;
-        padding: 20px 20px 50px;
-        margin-top: 40px;
+        padding: 20px 40px 50px; 
+        margin-top: 80px;
     }
     .paintingparent1{
         width: auto;
@@ -492,8 +492,8 @@ body {
 @media only screen and (max-width: 600px) {
      .maincategory{
         justify-content: center;
-        padding: 20px 20px 50px; 
-        margin-top: 40px;
+        padding: 20px 40px 50px; 
+        margin-top: 80px;
     }
     .fotoparent1{
         width: auto;
@@ -621,8 +621,8 @@ body {
 @media only screen and (max-width: 600px) {
      .maincategory{
         justify-content: center;
-        padding: 20px 20px 50px; 
-        margin-top: 40px;
+        padding: 20px 40px 50px; 
+        margin-top: 80px;
     }
     .fotoparent2{
          width: auto;
@@ -751,8 +751,8 @@ body {
 @media only screen and (max-width: 600px) {
      .maincategory{
         justify-content: center;
-        padding: 20px 20px 50px; 
-        margin-top: 40px;
+        padding: 20px 40px 50px; 
+        margin-top: 80px;
     }
     .fotoparent3{
          width: auto;
@@ -890,8 +890,8 @@ body {
 @media only screen and (max-width: 600px) {
     .maincategory{
         justify-content: center;
-        padding: 20px 20px 50px; 
-        margin-top: 40px;
+       padding: 20px 40px 50px; 
+        margin-top: 80px;
      }
     
     .digitalparent1{
