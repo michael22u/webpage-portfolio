@@ -73,11 +73,11 @@ a {
 }
 
 .textparent{
-    /* background-color: lightcoral; */
+    background-color: #fff5b3;
     display:flex;
     font-size: 15px;
     margin-top: 0px;
-    padding: 0px 20px;
+    padding: 10px 20px;
 }
 
 .bild{
@@ -98,7 +98,7 @@ a {
     /* background-color: green; */
     display: grid;
     grid grid-template-columns: 1fr;
-    grid-row-gap: 10px;
+    grid-row-gap: 0px;
     width: 100%;
     
 }
@@ -208,6 +208,7 @@ a {
 }
     
     .textparent {
+        background-color: transparent;
         grid-area: 1 / 2;
         padding: 0px 0px;
     }
