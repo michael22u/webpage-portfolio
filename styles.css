@@ -73,7 +73,7 @@ a {
 }
 
 .textparent{
-    box-shadow: 0 0 15px 0 rgba(0,0,0,0.3);
+    box-shadow: 0 -5px 15px 0 rgba(0,0,0,0.3);
     display:flex;
     font-size: 15px;
     margin-top: 0px;
