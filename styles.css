@@ -73,7 +73,7 @@ a {
 }
 
 .textparent{
-    background-color: #ffcc99;
+    box-shadow: 0 0 15px 0 rgba(0,0,0,0.3);
     display:flex;
     font-size: 15px;
     margin-top: 0px;
@@ -209,6 +209,7 @@ a {
     
     .textparent {
         background-color: transparent;
+        box-shadow: none;
         grid-area: 1 / 2;
         padding: 0px 0px;
     }
