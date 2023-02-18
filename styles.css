@@ -69,7 +69,7 @@ a {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin-top: 45px;
+    margin-top: 60px;
 }
 
 .textparent{
@@ -126,7 +126,7 @@ a {
         position: fixed;
         top: 0;
         width: 100%;
-        height: 45px;
+        height: 55px;
         background-color: white;
         padding-left: 20px;
      }
@@ -231,7 +231,7 @@ a {
  .Home {
   position:relative;
   margin:0px;
-  top: 10px;
+  top: 25%;
   left: 0%;
   -ms-transform: none;
   transform: none;  
