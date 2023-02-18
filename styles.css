@@ -111,12 +111,13 @@ a {
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);  
-  border-color: #cccccc;
+  border-color: #c9ed5e;
   border-style:solid;
   border-width: 1px;
   width: 80px;
   text-align: center;
-  line-height: 24px;    
+  line-height: 24px;
+  background-color: #e6ff99;
 }
 
 .header{
@@ -234,12 +235,13 @@ a {
   left: 0%;
   -ms-transform: none;
   transform: none;  
-  border-color: #cccccc;
+  border-color: #c9ed5e;
   border-style:solid;
   border-width: 1px;
   width: 80px;
   text-align: center;
   line-height: 24px;
+  background-color: #e6ff99;
     
 }
 
