@@ -105,21 +105,20 @@ a {
 
  
 .Home{
-    display:block;
-    width: 80px;
-    height: 25px;
-    margin-top:10px;
-    position:fixed;
-    border-color: #cccccc;
-    border-style:solid;
-    border-width: 1px;
-    font-size: 15px;
-    font-family: Arial, sans-serif;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 25px;
-    
+  position:absolute;
+  margin: 0;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);  
+  border-color: #cccccc;
+  border-style:solid;
+  border-width: 1px;
+  width: 80px;
+  text-align: center;
+  line-height: 24px;    
 }
+
 .header{
         z-index: 1;
         overflow:hidden;
@@ -227,6 +226,20 @@ a {
     .main2{
         padding:20px;
     }
+    
+ .Home {
+  position:relative;
+  margin:0px;
+  top: 10px;
+  left: 0%;
+  -ms-transform: none;
+  transform: none;  
+  border-color: #cccccc;
+  border-style:solid;
+  border-width: 1px;
+  width: 80px;
+  text-align: center;
+  line-height: 24px;
     
 }
 
