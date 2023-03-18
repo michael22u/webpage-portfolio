@@ -50,7 +50,7 @@ a {
 .footer {
     font-size: 15px;
     padding-top: 10px;
-    padding-left: 40px;
+    padding-left: 20px;
     padding-bottom: 10px;
     width: 100%;
     display: block;
@@ -191,6 +191,7 @@ a {
     .parent {
         grid-template-columns: 1fr 1fr 1fr;
         padding-bottom: 50px;
+        grid-row-gap: 40px;
         }
         
     .childtext{
